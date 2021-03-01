@@ -4,4 +4,4 @@ H1 Magang QL
 -membuat database baru
 -membuat tabel di database
 -memasukkan data ke database
-
+-membuat fitur login dan register di visual studio code
