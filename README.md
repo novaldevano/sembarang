@@ -1,3 +1,2 @@
-# sembarang
-gak usah
-kakean cangkem
+# PKL QL 2021
+Rincian kegiatan yang dilakukan selama magang
