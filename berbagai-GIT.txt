@@ -1,0 +1,9 @@
+GIT
+
+-git lab
+-git hub
+-git bash
+
+tata cara
+*install git bash
+*login git lab dan git hub
