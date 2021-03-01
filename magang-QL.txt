@@ -3,4 +3,3 @@ H1 Magang QL
 -membuat router
 -membuat database baru dan mengoneksikan ke env. di visual studio code
 -memasukkan data ke database
--
