@@ -1,7 +1,7 @@
 H1 Magang QL
 -install visual studio code
 -membuat router
--membuat database baru
+-membuat database baru dan mengoneksikan ke env. di visual studio code
 -membuat tabel di database
 -memasukkan data ke database
 -membuat fitur login dan register di visual studio code
