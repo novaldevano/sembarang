@@ -2,3 +2,4 @@ H1 Magang QL
 -install visual studio code
 -membuat router
 -membuat database baru
+-memasukkan data ke database
